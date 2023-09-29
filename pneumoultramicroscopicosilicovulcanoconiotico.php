@@ -1,4 +1,4 @@
-[09:53, 28/09/2023] Henrique: <?php
+<?php
     $num1 = 2;
     $num2 = 4;
     $num3 = 6;
